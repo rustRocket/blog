@@ -5,3 +5,8 @@ body {
 	margin: 0 20px;
 	background-color: #00ff00;
 }
+.notion {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
